@@ -1,0 +1,19 @@
+{
+  "name": "js-factorial",
+  "version": "1.0.0",
+  "description": "An HTML app to calculate factorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brenobcsilva/JS-FACTORIAL.git"
+  },
+  "author": "Breno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brenobcsilva/JS-FACTORIAL/issues"
+  },
+  "homepage": "https://github.com/brenobcsilva/JS-FACTORIAL#readme"
+}
